@@ -22,3 +22,9 @@ The [Backbone.js client](https://developer.wordpress.org/rest-api/backbone-javas
 
 ## C# / .NET
 [WordPressPCL](https://github.com/wp-net/WordPressPCL): a full REST API client written in C#.
+
+## Dart / Flutter
+
+[wordpress_client](https://pub.dev/packages/wordpress_client): a library written in Dart to easily interact with the Wordpress REST API, supports most common endpoints & CRUD operations, authorization, and custom endpoints.
+
+[wordpress_api](https://pub.dev/packages/wordpress_api): a WordPress API client that supports retrieving data from standard WordPress REST API endpoints and WooCommerce written in Dart.
